@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/supabase-js": "^2.50.0",
+    "crypto-js": "^4.2.0",
+    "instagram-private-api": "^1.46.1"
+  }
+}
